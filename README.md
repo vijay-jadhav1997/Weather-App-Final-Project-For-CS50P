@@ -1,9 +1,9 @@
 # A Simple Weather App
 
-### Video Demo: ([A Simple Weather App | Final Project For CS50's Introduction To Programming With Python](https://youtu.be/JP5eYi4u6_Q?si=HXMIFrml8LTCs8wg))
+### Video Demo on Youtube: ([A Simple Weather App | Final Project For CS50's Introduction To Programming With Python](https://youtu.be/JP5eYi4u6_Q?si=HXMIFrml8LTCs8wg))
 
 ---
-![](<images\project-title.png>)
+![](images\project-title.png)
 
 ---
 
