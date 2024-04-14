@@ -1,0 +1,6 @@
+
+pyfiglet__1.0.2
+pytest__8.0.0
+tabulate__0.9.0
+requests__2.31.0
+datetime__5.5
