@@ -44,7 +44,7 @@ Libraries needed to be installed are
 
     then we get following welcome message.
 
-![](<images\usage screenshot-1.png>)
+!["welcome image"](<images\usage screenshot-1.png>)
 
 There are 3 options available in the main menu-
 1. Current Weather of a city of your choice.no
@@ -58,7 +58,7 @@ Let's see how they work-
 => Typing '1' shows us a message ("Check current Weather of the city with its name") and then asks us to enter a city name.
 
  => Entering a city name shows us the weather data of that particular city in table format. (let's see the following example of Pune city)
-![](<images\usage screenshot-2.png>)
+!["App working demo image"](<images\usage screenshot-2.png>)
 
 => It is again asking whether we want to search for another city's weather data (enter 'yes') or go back to the main menu (enter 'no').
 
@@ -66,7 +66,7 @@ Let's see how they work-
 
 => If we enter an incorrect input or city name, it will alert with an alert message. See the following image:
 
-![](<images\usage screenshot-3.png>)
+!["Working demo"](<images\usage screenshot-3.png>)
 
 => Entering 'no', we come back to the main menu, and then it again asks us to select an option from the above three options in the main menu.
 
@@ -75,13 +75,13 @@ Let's see how they work-
 
 => After entering the city name, it gives air quality data for that particular city, and again asks whether we want to search the air quality data of another city (enter 'yes') or go back to the main menu (enter 'no'). See the following image:
 
-![](<images\usage screenshot-4.png>)
+!["Usage of Weather App image"](<images\usage screenshot-4.png>)
 
 => Entering 'yes' asks for the city name; this cycle continues until we enter 'no' and goes back to the main menu.
 
 => If we enter an incorrect input or city name, it will alert with an alert message. See the following image:
 
-![](<images\usage screenshot-5.png>)
+!["Thank giving msg"](<images\usage screenshot-5.png>)
 
 => Entering 'no', we come back to the main menu, and then it again asks us to select an option from the above three options in the main menu.
 
@@ -89,7 +89,7 @@ Let's see how they work-
 => To select 3rd option, we need to enter '3', and then it shows a message ("Write your suggestions for any improvement or any new feature.") and asks to enter 1 or 2.
 => Entering '1', needs to write our suggestions and pressing 'enter' button will show the thanking message. See the following image:
 
-![](<images\usage screenshot-6.png>)
+!["Exit message"](<images\usage screenshot-6.png>)
 
 => Thats how programme works!
 
